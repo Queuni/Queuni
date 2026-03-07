@@ -1,136 +1,157 @@
-# Jason Wen Ping Lau
+<h1 align="center">Hi 👋 I'm Jason Wen Ping Lau</h1>
 
-Senior Unity & Full-Stack Engineer specializing in multiplayer game systems, 3D gameplay development, and scalable backend infrastructure.
+<h3 align="center">
+Senior Unity & Full-Stack Engineer  
+Real-Time Multiplayer • 3D Games • Backend Systems
+</h3>
 
-I build interactive applications across **mobile, PC, and WebGL platforms**, combining Unity gameplay systems with modern cloud infrastructure and backend services.
-
-Currently working as a **Freelance Unity & Full-Stack Engineer**, collaborating with teams on multiplayer games and interactive platforms.
-
----
-
-## Core Expertise
-
-• Unity 3D game development  
-• Real-time multiplayer systems  
-• Backend architecture for live games  
-• Cross-platform deployment  
-• Payment system integration  
+<p align="center">
+Singapore 🇸🇬 • Open to Freelance & Remote Opportunities
+</p>
 
 ---
 
-## Technologies
+## 🎮 About Me
 
-**Game Development**
+I am a **Unity Game Developer and Full-Stack Engineer** specializing in building **real-time multiplayer games, 3D gameplay systems, and scalable backend infrastructure**.
 
-Unity  
-C#  
-3D Gameplay Systems  
-Multiplayer Networking  
+My work spans the entire development pipeline:
 
-**Backend**
+• Gameplay architecture in Unity  
+• Multiplayer networking systems  
+• Backend APIs and cloud infrastructure  
+• Cross-platform game deployment  
+• Payment systems and in-game monetization
 
-Node.js  
-TypeScript  
-Redis  
-Firebase  
-PostgreSQL  
+I have experience shipping games to:
 
-**Networking**
-
-WebSockets  
-Socket.io  
-
-**Cloud & Infrastructure**
-
-AWS  
-Docker  
-Linux  
-
-**Payments**
-
-Stripe  
-In-App Purchases  
+📱 **Google Play**  
+🍎 **Apple App Store**  
+🖥 **Steam (PC)**  
+🌐 **WebGL**
 
 ---
 
-## Platforms
+## 🚀 Tech Stack
 
-I have experience building and deploying games for:
+### Game Development
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
 
-Android (Google Play)  
-iOS (Apple App Store)  
-PC (Steam)  
-WebGL
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,python" />
+</p>
+
+### Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,blender" />
+</p>
 
 ---
 
-## Featured Project
+## 🌐 Networking & Multiplayer
+
+⚡ WebSockets  
+⚡ Socket.io  
+⚡ Server-Authoritative Architecture  
+⚡ Real-Time Multiplayer Game Logic  
+
+---
+
+## 💳 Monetization & Deployment
+
+✔ Stripe Payment Integration  
+✔ In-App Purchases (Google Play & App Store)  
+✔ Game Publishing on Steam  
+✔ CI/CD deployment pipelines  
+
+---
+
+## 🕹 Featured Project
 
 ### Multiplayer Card Game Platform
 
-Real-time multiplayer card game platform supporting multiple concurrent tables and tournament gameplay.
+A **real-time multiplayer poker-style game platform** supporting multiple concurrent tables and tournaments.
 
 Features
 
-• Real-time multiplayer networking  
-• Matchmaking and lobby system  
-• Leaderboard and ranking system  
-• Payment integration for digital purchases  
-• Cross-platform deployment
+• real-time multiplayer networking  
+• matchmaking and lobby systems  
+• leaderboard and ranking system  
+• in-game purchases and payments  
+• cross-platform support
+
+Platforms
+
+Android  
+iOS  
+PC (Steam)  
+WebGL
 
 Technologies
 
-Unity  
-Node.js  
-Redis  
-WebSockets  
-AWS  
-Stripe
+Unity • Node.js • Redis • WebSockets • AWS • Stripe
 
 ---
 
-## Professional Experience
+## 📊 GitHub Stats
 
-Senior Unity & Full-Stack Engineer with experience working on multiplayer game systems and scalable backend infrastructure.
+<p align="center">
 
-Previously worked with game development teams on:
+<img src="https://github-readme-stats.vercel.app/api?username=Queuni&show_icons=true&theme=tokyonight"/>
 
-• Gameplay systems and UI frameworks in Unity  
-• Multiplayer architecture and networking  
-• Backend API services  
-• Live game infrastructure and deployment pipelines  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Queuni&theme=tokyonight"/>
 
-Currently open to **freelance projects, remote contracts, and collaboration opportunities**.
+</p>
 
 ---
 
-## Skills
+## 🧠 Most Used Languages
 
-Unity  
-C#  
-Game Development  
-Multiplayer Networking  
-Node.js  
-TypeScript  
-AWS  
-Redis  
-Firebase  
-Docker  
-Stripe Integration  
-Mobile Game Development  
-WebGL
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queuni&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## Contact
+## 🏆 GitHub Trophies
 
-LinkedIn  
-www.linkedin.com/in/jasonwenpinglau
+<p align="center">
 
-GitHub  
-github.com/Queuni
+<img src="https://github-profile-trophy.vercel.app/?username=Queuni&theme=algolia"/>
 
-Email
-wenpinganimation@gmail.com
+</p>
 
-Portfolio  
+---
+
+## 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/Queuni">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+⭐ Always interested in collaborating on **multiplayer games, backend systems, and interactive platforms**.
