@@ -118,26 +118,6 @@ Unity • Node.js • Redis • WebSockets • AWS • Stripe
 
 ---
 
-## 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queuni&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Queuni&theme=tokyonight&no-frame=true" />
-
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
