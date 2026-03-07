@@ -1,40 +1,136 @@
-# Hi, I'm Wen Ping 👋
+# Jason Wen Ping Lau
 
-Senior Unity & Full-Stack Developer
+Senior Unity & Full-Stack Engineer specializing in multiplayer game systems, 3D gameplay development, and scalable backend infrastructure.
 
-I build real-time multiplayer games and scalable backend systems.
+I build interactive applications across **mobile, PC, and WebGL platforms**, combining Unity gameplay systems with modern cloud infrastructure and backend services.
 
-## 🔧 Technologies
-- Unity (C#)
-- Node.js / TypeScript
-- Firebase / Firestore
-- Redis / Socket.io
-- AWS / Nginx / PM2
-- Stripe Payments
-- React / Next.js
+Currently working as a **Freelance Unity & Full-Stack Engineer**, collaborating with teams on multiplayer games and interactive platforms.
 
-## 🎮 Game Projects
+---
 
-### 17 Card Game
-Real-time multiplayer poker style game built with Unity and Node.js.
+## Core Expertise
 
-Features:
-- Multiplayer tournament system
-- Real-time sockets
-- Firebase authentication
-- Stripe token purchase system
+• Unity 3D game development  
+• Real-time multiplayer systems  
+• Backend architecture for live games  
+• Cross-platform deployment  
+• Payment system integration  
 
-### 5 Card Draw Poker
-Cross-platform poker game for:
-- WebGL
-- Android
-- iOS
-- Windows
+---
 
-## 🌐 Links
-Portfolio: https://17-cardgame.com  
-LinkedIn: https://linkedin.com  
-GitHub: https://github.com/jstar0508
+## Technologies
 
-## 📫 Contact
-Email: your@email.com
+**Game Development**
+
+Unity  
+C#  
+3D Gameplay Systems  
+Multiplayer Networking  
+
+**Backend**
+
+Node.js  
+TypeScript  
+Redis  
+Firebase  
+PostgreSQL  
+
+**Networking**
+
+WebSockets  
+Socket.io  
+
+**Cloud & Infrastructure**
+
+AWS  
+Docker  
+Linux  
+
+**Payments**
+
+Stripe  
+In-App Purchases  
+
+---
+
+## Platforms
+
+I have experience building and deploying games for:
+
+Android (Google Play)  
+iOS (Apple App Store)  
+PC (Steam)  
+WebGL
+
+---
+
+## Featured Project
+
+### Multiplayer Card Game Platform
+
+Real-time multiplayer card game platform supporting multiple concurrent tables and tournament gameplay.
+
+Features
+
+• Real-time multiplayer networking  
+• Matchmaking and lobby system  
+• Leaderboard and ranking system  
+• Payment integration for digital purchases  
+• Cross-platform deployment
+
+Technologies
+
+Unity  
+Node.js  
+Redis  
+WebSockets  
+AWS  
+Stripe
+
+---
+
+## Professional Experience
+
+Senior Unity & Full-Stack Engineer with experience working on multiplayer game systems and scalable backend infrastructure.
+
+Previously worked with game development teams on:
+
+• Gameplay systems and UI frameworks in Unity  
+• Multiplayer architecture and networking  
+• Backend API services  
+• Live game infrastructure and deployment pipelines  
+
+Currently open to **freelance projects, remote contracts, and collaboration opportunities**.
+
+---
+
+## Skills
+
+Unity  
+C#  
+Game Development  
+Multiplayer Networking  
+Node.js  
+TypeScript  
+AWS  
+Redis  
+Firebase  
+Docker  
+Stripe Integration  
+Mobile Game Development  
+WebGL
+
+---
+
+## Contact
+
+LinkedIn  
+www.linkedin.com/in/jasonwenpinglau
+
+GitHub  
+github.com/Queuni
+
+Email
+wenpinganimation@gmail.com
+
+Portfolio  
