@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Senior Unity & Full-Stack Engineer  
-Real-Time Multiplayer • 3D Games • Backend Systems
+Real-Time Multiplayer • 3D Games
 </h3>
 
 <p align="center">
@@ -118,7 +118,7 @@ Unity • Node.js • Redis • WebSockets • AWS • Stripe
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/jason-wen-ping-lau-48392a3b5/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
