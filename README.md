@@ -6,7 +6,7 @@ Real-Time Multiplayer • 3D Games
 </h3>
 
 <p align="center">
-Singapore 🇸🇬 • Open to Freelance & Remote Opportunities
+• Open to Freelance & Remote Opportunities
 </p>
 
 ---
