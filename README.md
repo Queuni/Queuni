@@ -6,7 +6,7 @@ Real-Time Multiplayer • 3D Games
 </h3>
 
 <p align="center">
-Open to Freelance & Remote Opportunities
+Open to Remote Opportunities
 </p>
 
 ---
