@@ -114,8 +114,8 @@ Unity • Node.js • Redis • WebSockets • AWS • Stripe
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Queuni">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://discord.com/users/YOUR_USER_ID">
+  <img src="https://img.shields.io/badge/Discord-gnipnew-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jason-wen-ping-lau-48392a3b5/">
