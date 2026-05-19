@@ -1,10 +1,7 @@
-```md
-<h1 align="center">Hi 👋 I'm Jason Wen Ping Lau</h1>
+# Hi 👋 I'm Jason Wen Ping Lau
 
-<h3 align="center">
-3D & Multiplayer Game Engineer  
-Unity • Unreal Engine • Real-Time Multiplayer Systems
-</h3>
+### 3D & Multiplayer Game Engineer
+**Unity • Unreal Engine • Real-Time Multiplayer Systems**
 
 <p align="center">
 Open to Remote Opportunities
@@ -12,29 +9,29 @@ Open to Remote Opportunities
 
 ---
 
-## 🎮 About Me
+# 🎮 About Me
 
-I am a **3D & Multiplayer Game Engineer** specializing in building:
+I am a **3D & Multiplayer Game Engineer** specializing in:
 
-- real-time multiplayer games
+- Real-time multiplayer games
 - 3D gameplay systems
-- scalable backend infrastructure
-- cross-platform online experiences
+- Scalable backend infrastructure
+- Cross-platform online experiences
 
-My expertise spans the full game development pipeline:
+My experience spans the complete game development pipeline:
 
 - Multiplayer gameplay architecture
 - Real-time networking systems
-- Backend APIs and cloud infrastructure
+- Backend APIs & cloud infrastructure
 - Cross-platform deployment
-- Live-service systems and monetization
+- Live-service systems & monetization
 
-I have experience developing and shipping games for:
+## Platforms Shipped To
 
-📱 Google Play  
-🍎 Apple App Store  
-🖥 Steam (PC)  
-🌐 WebGL
+- 📱 Google Play
+- 🍎 Apple App Store
+- 🖥 Steam (PC)
+- 🌐 WebGL
 
 ---
 
@@ -52,8 +49,8 @@ I have experience developing and shipping games for:
   <img src="https://skillicons.dev/icons?i=roblox,lua,godot" />
 </p>
 
-- Roblox game development using Lua
-- Godot Engine development with C#
+- Roblox development using Lua
+- Godot development using C#
 - Multiplayer gameplay programming
 - 3D interaction systems
 
@@ -114,14 +111,14 @@ I have experience developing and shipping games for:
 
 ## Multiplayer Card Game Platform
 
-A real-time multiplayer poker-style platform supporting multiple concurrent tables and tournaments.
+A real-time multiplayer poker-style game platform supporting multiple concurrent tables and tournaments.
 
 ### Features
 
 - Real-time multiplayer networking
-- Matchmaking and lobby systems
-- Leaderboard and ranking systems
-- In-game purchases and payments
+- Matchmaking & lobby systems
+- Leaderboard & ranking systems
+- In-game purchases & payments
 - Cross-platform support
 
 ### Platforms
@@ -133,25 +130,22 @@ A real-time multiplayer poker-style platform supporting multiple concurrent tabl
 
 ### Technologies
 
-Unity • Unreal Engine • Node.js • Redis • WebSockets • AWS • Stripe
+`Unity` • `Unreal Engine` • `Node.js` • `Redis` • `WebSockets` • `AWS` • `Stripe`
 
 ---
 
 # 📫 Connect With Me
 
 <p>
+  <a href="mailto:wenpinganimation@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:wenpinganimation@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/1482330672264908891">
-  <img src="https://img.shields.io/badge/Discord-gnipnew-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
+  <a href="https://discord.com/users/1482330672264908891">
+    <img src="https://img.shields.io/badge/Discord-gnipnew-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ⭐ Interested in collaborating on multiplayer games, online systems, 3D gameplay, and interactive platforms.
-```
